@@ -1,0 +1,4 @@
+nc : 4 
+train : /home/ubuntu/workspace/dataset/images/train
+val : /home/ubuntu/workspace/dataset/images/val
+names : ['Senior,M', 'Senior,W', 'Normal,M', 'Normal,W']
