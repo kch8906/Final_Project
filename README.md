@@ -15,7 +15,7 @@ EC2, Lambda, System Manager, EventBridge, S3
 Goofys(s3 - ec2 폴더 마운트)
 Shell Script
 
-### Blog
+# Blog
 https://crysis.tistory.com/4?category=984169 
 
 # Pipeline
